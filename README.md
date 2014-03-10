@@ -30,5 +30,4 @@ Multiple browsers can play the game at the same time. To start play press the sp
 [Play Pong](http://pong.deviowa.com)
 
 
-todo list application written in javascript using node.js and express
-##Installation
+
